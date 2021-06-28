@@ -1,0 +1,1 @@
+A project from The Odin Project. A simple game of Tic Tac Toe that can be played in the terminal. Wrote in ruby has part of their full stack ruby course.
